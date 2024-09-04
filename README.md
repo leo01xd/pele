@@ -1,3 +1,3 @@
 # pele
 
-Este trabalho está licenciado sob Creative Commons Atribuição 4.0 Internacional 
+Este trabalho está licenciado sob CC BY 4.0 
